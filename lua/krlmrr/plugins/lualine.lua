@@ -9,6 +9,6 @@ lualine.setup({
     theme = "onedark",
   },
   sections = {
-    lualine_x = { "branch", "filetype" },
+    lualine_x = { "filetype" },
   },
 })
